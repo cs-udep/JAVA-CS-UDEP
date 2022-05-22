@@ -4,4 +4,5 @@ Somos un grupo de estudiantes, interesados en la programación. Este repositorio
 ejercicios, y aplicaciones que desarrollemos.
 
 # ¿Qué podrás encontrar?
-En este repositorio, hallarás ejercicios de programación de nivel básico hasta avanzado. También nuestras aplicaciones que estemos desarrollando
+En este repositorio, hallarás ejercicios de programación de nivel básico hasta avanzado. También nuestras aplicaciones que estemos desarrollando. Dale una
+estrella ⭐.
